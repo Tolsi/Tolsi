@@ -22,4 +22,4 @@ Hack all the things!
 
 - 👄 Pronounced: ser.gEy or tolsI
 
-- ⚡ Fun fact: I have never sat behind the wheel
+- ⚡ Fun fact: I have never sat behind the wheel of a car
