@@ -6,7 +6,7 @@ I love working with different technologies, do not dwell on something for a long
 
 Also I love to participate in bot programming challenges like mail.ru ai cup.
 
-I develop professionally more for JVM (Scala/Java/Kotlin), but I have really different experience: C, C++(Qt), ASM (x86, Blackfin), Ruby, JS/NodeJS, C# and those things that I'm not really proud of 😅 like Delphi, Lisp, Prolog, PHP, XML, SQL, HTML and etc.
+I develop professionally more for JVM (Scala/Java/Kotlin), but I have really varied experience: C, C++(Qt), ASM (x86, Blackfin), Ruby, JS/NodeJS, C#, Rust, Golang and those things that I'm not really proud of 😅 like Delphi, Lisp, Prolog, PHP, XML, SQL, HTML and etc. 
 
 Hack all the things!
 
