@@ -18,6 +18,8 @@ Hack all the things!
 
 - 💬 Ask me about my projects
 
+- 🌱 I’m currently learning play music
+
 - 😀 I'm addicted to 🚲 🎹 📽 🌴 🏖 ⛰ 
 
 - 👄 Pronounced: ser.gEy or tol.sI (try listening in [translate.google.ru](https://translate.google.ru/#view=home&op=translate&sl=en&tl=en&text=ser.gEy%20or%20tol.sI)
