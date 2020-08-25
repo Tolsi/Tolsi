@@ -20,6 +20,6 @@ Hack all the things!
 
 - 😀 I'm addicted to 🚲 🎹 📽 🌴 🏖 ⛰ 
 
-- 👄 Pronounced: ser.gEy or tolsI
+- 👄 Pronounced: ser.gEy or tol.sI
 
 - ⚡ Fun fact: I have never sat behind the wheel of a car
