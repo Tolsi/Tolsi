@@ -14,7 +14,7 @@ Hack all the things!
 
 - 📫 How to reach me: [telegram @tolsi1](https://telegram.me/tolsi1)
 
-- 🌏 [CV and other contacts](http://tol.si)
+- 🌏 [CV and other contacts](https://tol.si)
 
 - 👯 I’m looking to collaborate on something on the border between programming and music
 
