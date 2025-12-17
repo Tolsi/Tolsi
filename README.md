@@ -4,6 +4,8 @@
 
 💻 I'm a researcher and developer
 
+[I'm looking for CTO/tech lead role, check my CV!](https://tol.si/assets/_Tolmachev_CV_08_2025.pdf)
+
 I love working with different technologies, do not dwell on something for a long time. 
 
 Also I love to participate in bot programming challenges like mail.ru ai cup.
